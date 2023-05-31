@@ -5,6 +5,10 @@ Device maintainer: emiferpro
 
 ===== 2023.03.30 =====
 
+Added Aperture Camera
+
+===== 2023.03.30 =====
+
 Intial release
 Bugs: 
  Forgot to add camera, next build fixed

@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "emiferpro",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 11 Pro 4G",
+        "filename": "risingOS-v1.1-Babylon-202305301946-viva-PIXEL-COMMUNITY.zip",
+        "download": "https://github.com/Emiferpro/releases/releases/download/1685474235/risingOS-v1.1-Babylon-202305301946-viva-PIXEL-COMMUNITY.zip",
+        "timestamp": 1685474235,
+        "md5": "120f9a01eb1dcb7278d8bdd8daea2ca0",
+        "sha256": "104c478323028cb29aa2ffa134c3237f5cd0e7b46f9856b159ab56672906e335",
+        "size": 1407161181,
+        "version": "i.viva",
+        "buildtype": "Weekly",
+        "forum": "https://t.me/vivaaosp",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/vivaaosp",
+        "dt": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva",
+        "common-dt": "",
+        "kernel": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva-kernel"
+    }
+  ]
+}

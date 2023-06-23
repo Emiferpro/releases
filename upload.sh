@@ -1,3 +1,4 @@
+cd ~/ota/releases
 device=viva
 buildprop=/home/emiferpro/risingOS/out/target/product/$device/system/build.prop
 linenr=`grep -n "ro.system.build.date.utc" $buildprop | cut -d':' -f1`

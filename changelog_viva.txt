@@ -3,11 +3,15 @@ Build type: Monthly
 Device: Redmi Note 11 Pro 4G (viva)
 Device maintainer: emiferpro
 
-===== 2023.03.30 =====
+===== 2023.06.22 =====
+
+Added MiuiCamera and Xiaomi Parts
+
+===== 2023.05.30 =====
 
 Added Aperture Camera
 
-===== 2023.03.30 =====
+===== 2023.05.30 =====
 
 Intial release
 Bugs: 

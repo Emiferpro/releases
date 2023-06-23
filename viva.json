@@ -17,7 +17,7 @@
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "https://github.com/Emiferpro/releases/releases/download/''/boot.img",
+        "recovery": "https://github.com/Emiferpro/releases/releases/download/1687472720/boot.img",
         "paypal": "",
         "telegram": "https://t.me/vivaaosp",
         "dt": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva",

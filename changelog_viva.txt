@@ -3,6 +3,10 @@ Build type: Monthly
 Device: Redmi Note 11 Pro 4G (viva)
 Device maintainer: emiferpro
 
+===== 2023.07.02 =====
+
+Added Pixel BootAnimation
+
 ===== 2023.06.22 =====
 
 Added MiuiCamera and Xiaomi Parts
